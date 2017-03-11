@@ -17,6 +17,11 @@ A JavaScript library for building user interfaces.
 * *web browsers* with [React DOM](https://facebook.github.io/react/docs/react-dom.html)
 * *mobile apps* with [React Native](https://facebook.github.io/react-native/)
 
+###Components
+
+####Render()
+
+Each component must have a pure render function which returns markup.
 
 ## [Webpack](https://webpack.github.io/)
 
